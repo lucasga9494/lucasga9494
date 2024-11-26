@@ -1,20 +1,29 @@
-## Hi there 👋
-## 👨‍💻 Analista de Sistemas, Programador en Progreso
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-<!--
-**lucasga9494/lucasga9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Actualmente aprendiendo y mejorando
 
-Here are some ideas to get you started:
+- Desarrollo Web: Frontend y Backend
+- Tecnologías emergentes en el ámbito de la programación
+- Mejora continua en metodologías ágiles y gestión de proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 ¡Conéctate conmigo!
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-garcia-0729a120b/)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasga9494)
+
+---
+
+### ⚡ Objetivo
+
+- Seguir creciendo en el campo de la programación.
+- Contribuir a proyectos desafiantes e innovadores.
