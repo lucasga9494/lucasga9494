@@ -1,5 +1,9 @@
 ## Hi there 👋
+## 👨‍💻 Analista de Sistemas, Programador en Progreso
 
+---
+
+### 🛠️ Tecnologías y Herramientas
 <!--
 **lucasga9494/lucasga9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
